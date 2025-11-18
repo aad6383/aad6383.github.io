@@ -4,5 +4,6 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - aad6383/Electronics-Arts-Forage-Simulation
+  - aad6383/Electronic-Arts-Forage-Simulation
   - aad6383/Capstone-Doc-Automation
+  - aad6383/forage-midas
