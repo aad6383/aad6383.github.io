@@ -2,96 +2,180 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: Aayush Dalal
+    - name: Location
+      value: Irving, TX
+    - name: Email
+      value: aayushdalal12@gmail.com
+    - name: Phone
+      value: (469)-475-0293
+    - name: LinkedIn
+      value: https://www.linkedin.com/in/aayush-dalal-03064b21a/
+    - name: Summary
+      value: >
+        Self-disciplined and hard-working researcher/software professional pursuing a career
+        in Generative AI, data science, and advanced information technology. Experienced with
+        Python, PyTorch, CUDA, Informatica, Tableau, AWS Cloud/AI, and LLM optimization.
+        Strong communication skills and proficiency in creative technical writing.
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: M.S. in Data Science
+      institution: Southern Methodist University (SMU), Dallas, TX
+      year: 2025 – Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Graduate studies focused on statistical foundations, machine learning, data engineering, and applied data science.
+        - Coursework includes DS-6371 Statistical Foundations, DS-6306 Doing Data Science, and advanced ML topics.
 
-- title: Experience
-  type: time_table
+    - title: B.S. in Computer Science
+      institution: The University of Oklahoma (OU), Norman, OK
+      year: 2021 – 2025
+      description:
+        - Completed undergraduate degree with research focus on Generative AI, LLM optimization, and software engineering.
+        - Researcher at Gallogly College of Engineering; worked with supercomputing systems and PyTorch-based models.
+
+
+- title: Technical Skills
+  type: nested_list
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
+    - title: Programming Languages
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Python, CUDA, PL/SQL, Java, JavaScript
+        - C, C++, Assembly
+    - title: Operating Systems
       items:
-        - Max Planck Medal
+        - Linux, macOS, Windows
+    - title: Software & Tools
+      items:
+        - Informatica Power Center, Tableau, Power BI
+        - KACE, Jira, Confluence, Jamf
+        - Oracle APEX, Node.js
+    - title: Databases
+      items:
+        - Oracle, MySQL
+    - title: GenAI & LLM Models
+      items:
+        - ChatRTX, Ollama, PyTorch Transformers
+        - LangChain, LlamaIndex, RAG Systems
+    - title: Agentic AI & Orchestration
+      items:
+        - Multi-Agent Systems, Prompt Chaining
+        - Pinecone, FAISS, ChromaDB
+        - Deployment on AWS Bedrock, Azure OpenAI, GCP Vertex
+    - title: Cloud Computing
+      items:
+        - Certified AWS Cloud & AI Practitioner
+        - Experience with supercomputing resources
+    - title: Software Engineering & Design
+      items:
+        - Code Readability, Analysis, OOP, Feature Design
+        - Game Engine Technology
+    - title: Data Science & Analysis
+      items:
+        - Data Manipulation, ML, Visualization
+        - Web Scraping, EDA, Model Evaluation & Interpretation
+
+- title: Certifications
+  type: list
+  contents:
+    - AWS Certified Cloud Practitioner
+    - AWS Certified AI Practitioner
+    - Salesforce Tableau Desktop Foundations
+    - Salesforce Tableau Data Analyst
+    - PCAP—Certified Associate Python Programmer
+    - PCPP1—Certified Professional Python Programmer Level 1
+    - Excel Skills Virtual Experience Program (JP Morgan Chase)
+
+- title: Experience & Projects
+  type: time_table
+  contents:
+    - title: Researcher — LLM Optimization Project
+      institution: Gallogly College of Engineering, University of Oklahoma
+      year: 06/24 – 05/25
+      description:
+        - Researched methods for accelerating LLM inference on constrained hardware.
+        - Analyzed Meta LLM, Ollama3, and ChatRTX.
+        - Built neural networks and transformer components from scratch using PyTorch.
+        - Evaluated hypotheses using the university’s supercomputer.
+        - Produced a full research paper documenting findings and experimental results.
+
+    - title: Developer — Capstone Automated Documentation System
+      institution: University of Oklahoma
+      year: 08/23 – 12/23
+      description:
+        - Developed a document automation system using Python, Ansible, Confluence API.
+        - Built an Ansible plugin and integrated YAML/JSON-based automation pipelines.
+        - Led planning, implementation, team sprints, and product tracking.
+        - Conducted unit testing, integration testing, and peer reviews.
+        - GitHub: https://github.com/Doanh32/Capstone-Doc-Automation.git
+
+    - title: Senior Data Analytics Intern
+      institution: IgnAite (Startup)
+      year: 01/24 – 06/24
+      description:
+        - Identified critical data problems in the financial industry.
+        - Taught colleagues analytical practices and worked with international teams.
+        - Used Oracle APEX and Node.js to connect insights across multiple divisions.
+
+    - title: British Airways Data Science Simulation
+      institution: Forage
+      year: May 2025
+      description:
+        - Scraped and analyzed customer review data.
+        - Built predictive models for buying behavior.
+
+    - title: BCG Data Science Simulation
+      institution: Forage
+      year: May 2025
+      description:
+        - Completed customer churn analysis using Python.
+        - Engineered a random forest model with 85% accuracy.
+        - Produced an executive summary for stakeholder decision-making.
+
+    - title: Tata Data Visualization Simulation
+      institution: Forage
+      year: May 2025
+      description:
+        - Created advanced data visualizations for executive decision-making.
+        - Prepared leadership-level analytical questions.
+
+    - title: EA Sports Software Engineering Experience
+      institution: Electronic Arts (Forage)
+      year: May 2025
+      description:
+        - Proposed a new EA Sports College Football feature.
+        - Created a C++ class diagram and header file.
+        - Implemented a bugfix and optimized game engine structure.
+
+    - title: Student Library Technical Assistant
+      institution: University of Oklahoma Libraries
+      year: 09/21 – 01/23
+      description:
+        - Installed software and maintained library computing systems.
+        - Worked with enterprise tools such as Jamf and KACE.
+        - Deployed Windows PCs and supported macOS environments.
+
+    - title: Hexadecimal Arithmetic & Conversion Program
+      institution: Solo Project
+      year: Ongoing
+      description:
+        - Developed an assembly program for hex input, conversion, and arithmetic.
+        - Utilized modular assembly design, memory/register manipulation, and debugging.
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Generative AI & LLM Efficiency
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Model compression and inference optimization.
+        - Low-level acceleration techniques (CUDA, assembly, PyTorch).
+    - title: Agentic AI Systems
       items:
-        - Description 1.
-        - Description 2.
+        - Multi-agent orchestration.
+        - RAG pipelines and memory architectures.
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Hobbies:</u> Writing, gaming, research, software tinkering
