@@ -496,6 +496,11 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
+            },},{id: "projects-eda-project",
+          title: 'EDA Project',
+          description: "with background image",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/EDA/";
             },},{
         id: 'social-cv',
         title: 'CV',
