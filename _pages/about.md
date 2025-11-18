@@ -9,19 +9,6 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>Dallas, Texas</p>
-
-selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
-
-announcements:
-  enabled: true # includes a list of news items
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
-
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
 ---
 
 I’m Aayush Dalal, a computer science student at the University of Oklahoma with a strong focus on Generative AI, machine learning, and software engineering. My experience spans from building neural networks and transformers from scratch in PyTorch to optimizing LLM inference using high-performance computing resources. I’ve also developed automation systems using Python, Ansible plugins, Confluence APIs, YAML, and JSON, and I’m certified across AWS Cloud, AI, and professional-level Python programming. My technical toolkit includes CUDA, C/C++, Java, PL/SQL, ETL pipelines, Tableau, and full data-science workflows using EDA, modeling, and visualization.
