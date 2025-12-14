@@ -407,7 +407,12 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "projects-eda-project",
+      },{id: "projects-abalone-age-prediction-eda-amp-modeling",
+          title: 'Abalone Age Prediction — EDA &amp;amp; Modeling',
+          description: "Exploratory data analysis and interpretable modeling for abalone age prediction",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/Abalone/";
+            },},{id: "projects-eda-project",
           title: 'EDA Project',
           description: "with background image",
           section: "Projects",handler: () => {
