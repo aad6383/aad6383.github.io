@@ -407,9 +407,9 @@ ninja.data = [{
             window.location.href = "/blog/2015/formatting-and-links/";
           
         },
-      },{id: "projects-abalone-age-prediction-eda-amp-modeling",
-          title: 'Abalone Age Prediction — EDA &amp;amp; Modeling',
-          description: "Exploratory data analysis and interpretable modeling for abalone age prediction",
+      },{id: "projects-abalone-age-prediction-eda-modeling-amp-rag",
+          title: 'Abalone Age Prediction — EDA, Modeling &amp;amp; RAG',
+          description: "Exploratory analysis, interpretable modeling, and a retrieval-augmented generation (RAG) demo for abalone age prediction",
           section: "Projects",handler: () => {
               window.location.href = "/projects/Abalone/";
             },},{id: "projects-eda-project",
