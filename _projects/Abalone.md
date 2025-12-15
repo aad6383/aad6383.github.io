@@ -7,17 +7,29 @@ importance: 1
 category: work
 ---
 
+## 🎥 Presentation Video
+
+The full project presentation, including the modeling walkthrough, Shiny demo, and RAG application explanation, is available via the Zoom recording below.
+
+- **Zoom Recording:**  
+  <a href="https://us06web.zoom.us/rec/share/_MHaBdcZFRIaoyMpZ1IE_05txdI6wEv4WWT7UuqAJ6IXSREPt3G3TaobSzGiklaa.0aDjE6TDtyct8aE1?startTime=1765755976000" target="_blank">
+    Watch Presentation Video
+  </a>
+
+- **Passcode:**  
+  `2wJSu2!q`
+
+---
+
 ## Project Artifacts
 
 ### 🔹 Retrieval-Augmented Generation (RAG) Demo
 This RAG application demonstrates how a language model can answer questions about the abalone dataset and modeling results by retrieving relevant context before generation.
 
-- **Colab Notebook (RAG Implementation):**  
+- **Colab Notebook:**  
   <a href="https://colab.research.google.com/drive/1o3ShtNyI65zYJyPDbFMo-4yhT87WbZNV?usp=sharing" target="_blank">
     Open RAG Demo in Google Colab
   </a>
-
-> Note: The RAG demo is hosted on Google Colab and opens in a new tab due to embedding restrictions.
 
 ---
 
