@@ -417,6 +417,11 @@ ninja.data = [{
           description: "with background image",
           section: "Projects",handler: () => {
               window.location.href = "/projects/EDA/";
+            },},{id: "projects-statistical-foundations-housing-price-analysis",
+          title: 'Statistical Foundations — Housing Price Analysis',
+          description: "Interaction modeling, predictive regression, and model comparison using the Ames Housing dataset",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/StatsFoundationsHousingPriceAnalysis/";
             },},{
         id: 'social-cv',
         title: 'CV',
