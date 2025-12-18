@@ -25,6 +25,7 @@
       institution: Southern Methodist University (SMU), Dallas, TX
       year: 2025 – Present
       description:
+        - GPA: 3.72 / 4.00
         - Graduate studies focused on statistical foundations, machine learning, data engineering, and applied data science.
         - Coursework includes DS-6371 Statistical Foundations, DS-6306 Doing Data Science, and advanced ML topics.
 
@@ -32,6 +33,7 @@
       institution: The University of Oklahoma (OU), Norman, OK
       year: 2021 – 2025
       description:
+        - GPA: 2.86 / 4.00
         - Completed undergraduate degree with research focus on Generative AI, LLM optimization, and software engineering.
         - Researcher at Gallogly College of Engineering; worked with supercomputing systems and PyTorch-based models.
 
