@@ -2,7 +2,7 @@
 layout: page
 title: Statistical Foundations — Housing Price Analysis
 description: Interaction modeling, predictive regression, and model comparison using the Ames Housing dataset
-img: assets/img/istockphoto-1488938957-612x612
+img: assets/img/istockphoto-1488938957-612x612.png
 importance: 1
 category: work
 ---
