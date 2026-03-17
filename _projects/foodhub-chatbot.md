@@ -38,9 +38,17 @@ Open full notebook output
 
 ## 💻 Preview
 
+<div style="background-color:#111; padding:10px; border-radius:8px;">
+
 <iframe
   src="{{ site.baseurl }}/assets/html/foodhub_chatbot.html"
   width="100%"
-  height="700"
-  style="border:none;"
-></iframe>
+  height="900"
+  style="
+    border:none;
+    background-color:#111;
+    filter: invert(1) hue-rotate(180deg);
+  ">
+</iframe>
+
+</div>
