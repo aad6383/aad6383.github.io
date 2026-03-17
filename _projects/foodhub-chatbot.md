@@ -9,7 +9,9 @@ category: work
 
 ## 📌 Project Overview
 
-Chatbot built using LLM + SQL Agent + guardrails to retrieve order data safely from a database.
+This project builds an AI-powered chatbot that retrieves customer order data using an LLM, SQL agent, and guardrails.
+
+The chatbot converts natural language queries into database queries and returns safe, structured responses.
 
 **Program:** UT Austin Generative AI Bootcamp  
 **Course:** Business Applications with LLMs  
@@ -28,7 +30,17 @@ Chatbot built using LLM + SQL Agent + guardrails to retrieve order data safely f
 
 ---
 
-## 📄 Full Notebook
+## 🧠 Key Features
+
+- Natural language → SQL queries
+- Safe responses using guardrails
+- Database retrieval with agents
+- End-to-end chatbot loop
+- Customer order lookup
+
+---
+
+## 💻 Notebook Output
 
 <a href="{{ site.baseurl }}/assets/html/foodhub_chatbot.html" target="_blank">
 Open full notebook output
@@ -36,19 +48,11 @@ Open full notebook output
 
 ---
 
-## 💻 Preview
-
-<div style="background-color:#111; padding:10px; border-radius:8px;">
+## 🔎 Preview
 
 <iframe
   src="{{ site.baseurl }}/assets/html/foodhub_chatbot.html"
   width="100%"
-  height="900"
-  style="
-    border:none;
-    background-color:#111;
-    filter: invert(1) hue-rotate(180deg);
-  ">
-</iframe>
-
-</div>
+  height="600"
+  style="border:none; border-radius:8px;"
+></iframe>
