@@ -422,6 +422,11 @@ ninja.data = [{
           description: "Interaction modeling, predictive regression, and model comparison using the Ames Housing dataset",
           section: "Projects",handler: () => {
               window.location.href = "/projects/StatsFoundationsHousingPriceAnalysis/";
+            },},{id: "projects-medical-assistant-rag-with-llms",
+          title: 'Medical Assistant (RAG with LLMs)',
+          description: "Retrieval-Augmented Generation medical knowledge assistant",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/medical-assistant/";
             },},{id: "projects-stock-market-news-sentiment-analysis",
           title: 'Stock Market News Sentiment Analysis',
           description: "LLM-based sentiment analysis on financial news",
