@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-## 📌 Overview
+## 📌 Project Overview
 
 Chatbot built using LLM + SQL Agent + guardrails to retrieve order data safely from a database.
 
@@ -28,15 +28,19 @@ Chatbot built using LLM + SQL Agent + guardrails to retrieve order data safely f
 
 ---
 
-## 💻 Notebook Output
+## 📄 Full Notebook
+
+<a href="{{ site.baseurl }}/assets/html/foodhub_chatbot.html" target="_blank">
+Open full notebook output
+</a>
+
+---
+
+## 💻 Preview
 
 <iframe
   src="{{ site.baseurl }}/assets/html/foodhub_chatbot.html"
   width="100%"
-  height="900"
+  height="700"
   style="border:none;"
 ></iframe>
-
----
-
-[GitHub Repository](https://github.com/aad6383/FoodHubChatBot)
